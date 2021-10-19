@@ -1,2 +1,2 @@
-# Introdu-o-ao-Pseudoc-digo
+# Introdução ao Pseudocódigo - Portugol
 Primeiros projetos de Pseudocódigo
